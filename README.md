@@ -22,7 +22,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=You'll+Always+Be+Alone,+Get+Over+Yourself&hearts..<3"></a>
 </p>
 
-<h3>About Me </h3>
+<h3>About Me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
 
 - 📫 Feel free to reach me out **wiloidrovogd@gmail.com** 📫 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"/>
 
@@ -30,7 +30,7 @@
 
 - Always `learning new things`
 
-<h3>My GitHub Stats </h3>
+<h3>My GitHub Stats <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
 <img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -84,6 +84,11 @@
 <!--icons and links-->
 <p align="center">
 <!--<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>-->
+<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:wiloidrovogd@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/wiloidrovo"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.facebook.com/wilo.idrovo"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+<a href="https://instagram.com/wiloidrovo/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <a href="https://orcid.org/0009-0007-0375-259X" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcid" height="50" width="50" /></a>
 <a href="https://www.instagram.com/wiloidrovo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.facebook.com/wilo.idrovo/?locale=es_LA" target="blank"><img align="center" src="https://scontent.fuio10-1.fna.fbcdn.net/v/t39.30808-6/380700650_10162533193146729_2379134611963304810_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeExzUgaauAfuC9cffawBPV2tjWzO19RVKS2NbM7X1FUpIng2H0lIajZvCK8v5R6s__63u08YULDLzu8_EHbnE0W&_nc_ohc=Gkif_L2wrpAQ7kNvgEGl8xJ&_nc_ht=scontent.fuio10-1.fna&oh=00_AYAK15f7fU_MK3AD2Nm0kOSxpb1mlQ9cyM12pTEP8Vy88Q&oe=664ED97E" alt="facebook" height="50" width="50" /></a>
