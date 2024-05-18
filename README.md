@@ -22,12 +22,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=You'll+Always+Be+Alone,+Get+Over+Yourself&hearts..<3"></a>
 </p>
 
-<h3>About Me</h3>
+<h3>About Me </h3>
+
 - 📫 Feel free to reach me out **wiloidrovogd@gmail.com** 📫 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"/>
+
 - 🧑‍💻 I am currently a `Computer Science` student 🧑‍💻
+
 - Always `learning new things`
 
-<h3>My GitHub Stats <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.width="300"gif" width="30px"> </h3>
+<h3>My GitHub Stats </h3>
 <img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <!--- stats & Trophy (start) -->
 <p align="center">
