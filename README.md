@@ -77,7 +77,7 @@
 <!--icons and links-->
 <p align="center">
 <!--<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>-->
-<!--<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>--> 
+<a href="https://orcid.org/0009-0007-0375-259X" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcid" height="50" width="50" /></a>
 <a href="https://www.instagram.com/wiloidrovo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.facebook.com/wilo.idrovo/?locale=es_LA" target="blank"><img align="center" src="https://scontent.fuio10-1.fna.fbcdn.net/v/t39.30808-6/380700650_10162533193146729_2379134611963304810_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeExzUgaauAfuC9cffawBPV2tjWzO19RVKS2NbM7X1FUpIng2H0lIajZvCK8v5R6s__63u08YULDLzu8_EHbnE0W&_nc_ohc=Gkif_L2wrpAQ7kNvgEGl8xJ&_nc_ht=scontent.fuio10-1.fna&oh=00_AYAK15f7fU_MK3AD2Nm0kOSxpb1mlQ9cyM12pTEP8Vy88Q&oe=664ED97E" alt="facebook" height="50" width="50" /></a>
 </p>
