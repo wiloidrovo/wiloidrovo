@@ -15,15 +15,14 @@
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">You'll always be alone, get over yourself</h2></summary>
   </ul>
 </div>
-
-- 📫 Feel free to reach me out **wiloidrovogd@gmail.com**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+Feel free to reach me out **wiloidrovogd@gmail.com** 📫
 
 <!--- stats & Trophy (start) -->
 <p align="center">
