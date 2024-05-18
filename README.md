@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Wilo</h1></summary>
+    <summary><h1 style="display: inline-block">Hi <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>, I'm Wilo</h1></summary>
   </ul>
 </div>
 
@@ -21,8 +21,8 @@
     <summary><h2 style="display: inline-block">You'll always be alone, get over yourself</h2></summary>
   </ul>
 </div>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-Feel free to reach me out **wiloidrovogd@gmail.com** 📫
+
+- 📫 Feel free to reach me out **wiloidrovogd@gmail.com** 📫
 
 <!--- stats & Trophy (start) -->
 <p align="center">
