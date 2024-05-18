@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://preview.redd.it/lingerie-eula-by-pottsness-v0-5pmkidg3pkwb1.jpg?auto=webp&s=86a2819e72e9df3cc64536aaba2aa23bd3d49e0a" heigth="100"/>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -15,28 +18,30 @@
        alt="snake" /></a>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">You'll always be alone, get over yourself</h2></summary>
-  </ul>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=You'll+Always+Be+Alone,+Get+Over+Yourself&hearts..<3"></a>
+</p>
 
-- 📫 Feel free to reach me out **wiloidrovogd@gmail.com** 📫
+<h3>About Me</h3>
+- 📫 Feel free to reach me out **wiloidrovogd@gmail.com** 📫 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"/>
+- 🧑‍💻 I am currently a `Computer Science` student 🧑‍💻
+- Always `learning new things`
 
+<h3>My GitHub Stats <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.width="300"gif" width="30px"> </h3>
+<img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&show_icons=true&theme=tokyonight" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wiloidrovo&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wiloidrovo&theme=tokyonight" /> 
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wiloidrovo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiloidrovo&theme=tokyonight"/>
 </td>
 </tr>
 </table>
@@ -55,7 +60,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know Or At Least Know A Little About 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know Or At Least Know A Little About 👨🏻‍💻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -69,7 +74,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect And Feel Free To Talk With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect And Feel Free To Talk With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2></summary>
   </ul>
 </div>
 
