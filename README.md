@@ -86,7 +86,7 @@
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>
 </div>
 <br />
 
