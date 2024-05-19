@@ -44,11 +44,11 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">  
+<td width="50%" align="center">
+  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&show_icons=true&theme=tokyonight" />
   <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?username=wiloidrovo&theme=tokyonight" alt="GitHub Streak" /></a>
-  <!--<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=wiloidrovo&theme=tokyonight" />--> 
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=wiloidrovo&theme=tokyonight" />
 </td>
 
 <td width="50%" align="center">
@@ -75,6 +75,7 @@
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
