@@ -48,6 +48,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&show_icons=true&theme=tokyonight" />
   <br></br>
+  <img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiloidrovo&theme=tokyonight" />
   <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=wiloidrovo&theme=tokyonight" />
 </td>
 
