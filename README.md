@@ -2,7 +2,9 @@
   <!--<img src="https://preview.redd.it/lingerie-eula-by-pottsness-v0-5pmkidg3pkwb1.jpg?auto=webp&s=86a2819e72e9df3cc64536aaba2aa23bd3d49e0a" height="450"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -45,7 +47,8 @@
 <td width="50%" align="center">  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&show_icons=true&theme=tokyonight" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wiloidrovo&theme=tokyonight" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?username=wiloidrovo&theme=tokyonight" alt="GitHub Streak" /></a>
+  <!--<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=wiloidrovo&theme=tokyonight" />--> 
 </td>
 
 <td width="50%" align="center">
