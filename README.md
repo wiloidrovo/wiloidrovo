@@ -48,14 +48,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&show_icons=true&theme=tokyonight" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wiloidrovo&show_icons=true&theme=material-palenight" />
   <br></br>
-  <img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiloidrovo&theme=tokyonight" />
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=wiloidrovo&theme=tokyonight" />
+  <!--<img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=wiloidrovo&theme=material-palenight" />-->
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wiloidrovo&theme=material-palenight"/>
+  <!--<img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=wiloidrovo&theme=material-palenight" />-->
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiloidrovo&theme=tokyonight"/>
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiloidrovo&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />-->
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiloidrovo&theme=material-palenight"/>
   <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
