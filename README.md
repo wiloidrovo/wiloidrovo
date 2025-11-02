@@ -95,22 +95,17 @@
 <div align="center">
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code><code><img width="15%" src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png"></code><code><img width="15%" src="https://assets-global.website-files.com/63dd3e77f72975019823d23d/644658a9e4e0126242b6693c_GNU%20Octave.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png"></code>
+<code><img width="15%" src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 </div>
 <br />
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,octave,latex&perline=14" />
-  </a>
-</p>
 
 <!-- Connect and feel free to talk with me -->
 <!--h2 without bottom border-->
